@@ -3,6 +3,7 @@ package hello.itemservice.domain.item;
 import lombok.Getter;
 import lombok.Setter;
 
+//master joo seok
 @Getter @Setter
 public class Item {
     private Long id;

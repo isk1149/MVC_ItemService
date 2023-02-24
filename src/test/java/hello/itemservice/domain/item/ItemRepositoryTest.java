@@ -14,6 +14,7 @@ public class ItemRepositoryTest {
         itemRepository.clearStore();
     }
 
+    // joo seok
     @Test
     void save() {
         //given
